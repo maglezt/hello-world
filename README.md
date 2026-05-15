@@ -1,7 +1,2 @@
-echo "# hello-world" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/maglezt/hello-world.git
-git push -u origin main
+# Hola Mundo de GitHub
+Este es un archivo *LEEME* para conocer las funcionalidades generales
